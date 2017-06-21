@@ -1,2 +1,2 @@
 # hello-world
-Learning how to use Github
+A designer trying to learn how to use Github 😣
